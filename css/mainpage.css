@@ -28,6 +28,7 @@
     align-self: stretch;
     flex-grow: 0;
     z-index: 12;}
+
 .headers-top {display: flex;
               flex-direction: column;
               align-items: center;
@@ -38,6 +39,7 @@
               background: #1E293B;
 
 }
+
 
 .headers-top-area {display: flex;
     flex-direction: row;
@@ -56,6 +58,7 @@
     flex: none;
     order: 1;
     flex-grow: 0;}
+
 .headers-top-buttons {display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -72,6 +75,7 @@
     flex: none;
     order: 0;
     flex-grow: 0;}
+
 .headers-top-buttons-singIn-but {display: flex;
     flex-direction: row;
     justify-content: center;
@@ -106,6 +110,7 @@
     flex: none;
     order: 0;
     flex-grow: 0;}
+
 .headers-top-buttons-addAdv-but {display: flex;
     flex-direction: row;
     justify-content: center;
@@ -133,6 +138,7 @@
     color: #FFFFFF;
     border-radius: 4px;}
 
+
 .headers-heading {
     display: flex;
     flex-direction: row;
@@ -151,6 +157,7 @@
     order: 2;
     flex-grow: 0;
     z-index: 1;}
+
 .headers-heading-text {
 
     /* Heading / h3 / bold-700 */
@@ -168,6 +175,7 @@
     color: #1E293B;
 
 }
+
 .headers-heading-func {display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -183,6 +191,7 @@
     flex: none;
     order: 1;
     flex-grow: 1;}
+
 .headers-heading-func-categories-but {
     box-sizing: border-box;
 
@@ -221,6 +230,7 @@
     flex: none;
     order: 0;
     flex-grow: 0;}
+
 .headers-heading-func-search {
     box-sizing: border-box;
 
@@ -245,6 +255,7 @@
     order: 1;
     flex-grow: 1;
 }
+
 .headers-heading-func-search-input {
     display: flex;
     flex-direction: column;
@@ -263,6 +274,7 @@
     order: 0;
     flex-grow: 1;
     margin: 0px -1px;}
+
 .headers-heading-func-search-but {
     display: flex;
     flex-direction: row;
@@ -297,6 +309,7 @@
     order: 1;
     flex-grow: 0;}
 
+
 .mainArea {
     display: flex;
     flex-direction: column;
@@ -311,6 +324,7 @@
     /* Light / Forms / Background */
 
     background: #FFFFFF;}
+
 .mainArea-header {width: 1296px;
     height: 32px;
     padding: 0px 10px 60px;
@@ -335,6 +349,7 @@
     order: 1;
     flex-grow: 0;
     z-index: 1;}
+
 .mainArea-advertisement {display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -352,6 +367,7 @@
     order: 3;
     flex-grow: 0;
     z-index: 3;}
+
 .mainArea-advertisement-adCard {display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -368,6 +384,7 @@
     flex: none;
     order: 0;
     flex-grow: 1;}
+
 .mainArea-advertisement-adCard-description {
     display: flex;
     flex-direction: column;
@@ -385,6 +402,7 @@
     align-self: stretch;
     flex-grow: 0;
 }
+
 .mainArea-advertisement-adCard-description-link {
     width: 306px;
     height: 24px;
@@ -411,6 +429,7 @@
     align-self: stretch;
     flex-grow: 0;
 }
+
 .mainArea-advertisement-adCard-description-price {
     width: 306px;
     height: 24px;
@@ -437,6 +456,7 @@
     align-self: stretch;
     flex-grow: 0;
 }
+
 .mainArea-advertisement-adCard-description-address {
     width: 306px;
     height: 20px;
@@ -463,6 +483,7 @@
     align-self: stretch;
     flex-grow: 0;
 }
+
 .mainArea-advertisement-adCard-description-date {
     width: 306px;
     height: 20px;
